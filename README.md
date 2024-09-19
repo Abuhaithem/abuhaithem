@@ -15,28 +15,68 @@
 
  👋 Hello! I'm Seid 💇‍♂️, a web and mobile developer from Ethiopia. I taught myself how to build websites and apps. I enjoy using technology to solve problems and bring ideas to life. I'm good at paying attention to small details and finding solutions when things get tough. When I'm not coding, I'm always learning something new. Let's connect and work together to make cool stuff happen!
 
+# 💡 Tech Stack Highlights:
 
-💡 **Tech Stack Highlights:**
+**Languages:**  
+JavaScript (ES6+), TypeScript, Python
 
-**Languages:** JavaScript (ES6+), TypeScript, Python  
-**Frontend:** React, Next.js, Tailwind CSS, Radix UI, Shadcn, Headless UI, React Hook Forms  
-**Backend:** Node.js, Express.js, Prisma, Drizzle ORM, Strapi, RESTful APIs, tRPC, Apollo, GraphQL  
-**Databases:** PostgreSQL, MSSQL, MySQL, MongoDB, Redis, Upstash  
-**Tools & Integrations:** Stripe, Google Maps API, ChartJS, SendGrid, NodeMailer, MUX  
-**CI/CD & DevOps:** Docker, Monorepo Architecture, TurboRepo, Linux, Git  
-**Cloud & Hosting:** Firebase, Supabase
+**Frontend:**  
+React, Next.js, Tailwind CSS, Radix UI, Shadcn, Headless UI, React Hook Forms
 
-🎨 **Passion for Beautiful, Functional Design:**  
-Whether it's a complex UI with React and Tailwind CSS or a scalable backend with Node.js and Prisma, I craft solutions that are both powerful and user-friendly.
+**Backend:**  
+Node.js, Express.js, Prisma, Drizzle ORM, Strapi, RESTful APIs, tRPC, Apollo, GraphQL
 
-⚙️ **Efficient & Scalable:**  
-From caching strategies with Redis and Upstash to optimizing builds with TurboRepo, I focus on performance and maintainability.
+**Databases:**  
+PostgreSQL, MSSQL, MySQL, MongoDB, Redis, Upstash
 
-📦 **Monorepo Architecture:**  
-Experienced in Monorepo architecture, efficiently managing and scaling multiple apps in one repository for consistency and streamlined development.
+**Tools & Integrations:**  
+Stripe, Google Maps API, ChartJS, SendGrid, NodeMailer, MUX
 
-🚀 **DevOps Mindset:**  
-Leveraging Docker, TurboRepo, and continuous deployment pipelines to deliver reliable and scalable software solutions.
+**CI/CD & DevOps:**  
+Docker, Monorepo Architecture (building multiple apps in one repository), TurboRepo, Linux, Git
+
+**Cloud & Hosting:**  
+Firebase, Supabase
+
+---
+
+# 🎨 Passion for Beautiful, Functional Design:
+Whether it's a complex UI with React and Tailwind CSS or a highly scalable backend with Node.js and Prisma, I craft solutions that are both powerful and user-friendly.
+
+---
+
+# ⚙️ Efficient & Scalable:
+From implementing caching strategies with Redis and Upstash to optimizing builds with TurboRepo, I’m all about performance and maintainability.
+
+---
+
+# 📦 Monorepo Architecture:
+Experienced in Monorepo architecture, efficiently managing and scaling multiple apps in one repository, ensuring consistency, shared tooling, and streamlined development.
+
+---
+
+# 🌟 Lightweight & Performant ORM:
+Expertise in Drizzle ORM, a lightweight and performant TypeScript ORM designed with developer experience in mind, ensuring high productivity and clean code.
+
+---
+
+# 🎯 Experience in Payment Integrations:
+Proficient in integrating secure payment gateways like Stripe, ensuring seamless transactions.
+
+---
+
+# 🌐 AI & Data-Driven:
+Experienced with OpenAI for cutting-edge AI solutions and data visualization tools like ChartJS for insights.
+
+---
+
+# 🛠️ Obsessed with Quality:
+Utilizing Zod for schema validation, Lodash for efficient data manipulation, and best practices to deliver robust, error-free applications.
+
+---
+
+# 💻 Let’s Build Something Amazing Together!
+
 
 
  <table align="center" width="100%" height="100%" >
