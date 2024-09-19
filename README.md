@@ -38,42 +38,42 @@ Docker, Monorepo Architecture (building multiple apps in one repository), TurboR
 **Cloud & Hosting:**  
 Firebase, Supabase
 
----
+
 
 ### 🎨 Passion for Beautiful, Functional Design:
 Whether it's a complex UI with React and Tailwind CSS or a highly scalable backend with Node.js and Prisma, I craft solutions that are both powerful and user-friendly.
 
----
+
 
 ### ⚙️ Efficient & Scalable:
 From implementing caching strategies with Redis and Upstash to optimizing builds with TurboRepo, I’m all about performance and maintainability.
 
----
+
 
 ### 📦 Monorepo Architecture:
 Experienced in Monorepo architecture, efficiently managing and scaling multiple apps in one repository, ensuring consistency, shared tooling, and streamlined development.
 
----
+
 
 ### 🌟 Lightweight & Performant ORM:
 Expertise in Drizzle ORM, a lightweight and performant TypeScript ORM designed with developer experience in mind, ensuring high productivity and clean code.
 
----
+
 
 ### 🎯 Experience in Payment Integrations:
 Proficient in integrating secure payment gateways like Stripe, ensuring seamless transactions.
 
----
+
 
 ### 🌐 AI & Data-Driven:
 Experienced with OpenAI for cutting-edge AI solutions and data visualization tools like ChartJS for insights.
 
----
+
 
 ### 🛠️ Obsessed with Quality:
 Utilizing Zod for schema validation, Lodash for efficient data manipulation, and best practices to deliver robust, error-free applications.
 
----
+
 
 ### 💻 Let’s Build Something Amazing Together!
 
