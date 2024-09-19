@@ -50,7 +50,7 @@
 <table>
    <tr>
      <td align="center">
-      <img alt="Next" height=64px src="https://github.com/user-attachments/assets/081e528f-8599-416b-8e70-6d388e8384c8">
+      <img alt="Next" width=64px src="https://github.com/user-attachments/assets/081e528f-8599-416b-8e70-6d388e8384c8">
      </td>
      <td align="center">
       <img alt="React" height=64px src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
