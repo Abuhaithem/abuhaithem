@@ -51,7 +51,7 @@
 <table>
    <tr>
      <td align="center">
-       <img alt="Next js" height=64px src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">
+       ![image](https://github.com/user-attachments/assets/081e528f-8599-416b-8e70-6d388e8384c8)
      </td>
      <td align="center">
       <img alt="React" height=64px src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
