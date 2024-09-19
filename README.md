@@ -50,7 +50,7 @@
 <table>
    <tr>
      <td align="center">
-      <img alt="Next" width=64px src="https://github.com/user-attachments/assets/081e528f-8599-416b-8e70-6d388e8384c8">
+      <img alt="Next" height=64px src="https://github.com/user-attachments/assets/c5c8b585-6aa8-4152-af73-5f8000e48a8f">
      </td>
      <td align="center">
       <img alt="React" height=64px src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
@@ -104,6 +104,9 @@
     </td>
     <td align="center">
       <img alt="Socket.io" height=64px src="https://cdn.worldvectorlogo.com/logos/socket-io.svg">
+    </td>
+    <td align="center">
+      <img alt="TurboRepo" height=64px src="https://github.com/user-attachments/assets/ff7445de-cc66-4337-9861-e1973c91a87a">
     </td>
     <td align="center">
       <img alt="ChatGPT" height=64px src="https://cdn.worldvectorlogo.com/logos/chatgpt-4.svg">
