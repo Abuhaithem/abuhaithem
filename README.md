@@ -11,7 +11,33 @@
 
 </div>
 
-<h4>👋 Hello! I'm Seid 💇‍♂️, a web and mobile developer from Ethiopia. I taught myself how to build websites and apps. I enjoy using technology to solve problems and bring ideas to life. I'm good at paying attention to small details and finding solutions when things get tough. When I'm not coding, I'm always learning something new. Let's connect and work together to make cool stuff happen!</h4>
+## 🎯 Bringing Ideas to Life with Cutting-Edge Tech
+
+ 👋 Hello! I'm Seid 💇‍♂️, a web and mobile developer from Ethiopia. I taught myself how to build websites and apps. I enjoy using technology to solve problems and bring ideas to life. I'm good at paying attention to small details and finding solutions when things get tough. When I'm not coding, I'm always learning something new. Let's connect and work together to make cool stuff happen!
+
+
+💡 **Tech Stack Highlights:**
+
+**Languages:** JavaScript (ES6+), TypeScript, Python  
+**Frontend:** React, Next.js, Tailwind CSS, Radix UI, Shadcn, Headless UI, React Hook Forms  
+**Backend:** Node.js, Express.js, Prisma, Drizzle ORM, Strapi, RESTful APIs, tRPC, Apollo, GraphQL  
+**Databases:** PostgreSQL, MSSQL, MySQL, MongoDB, Redis, Upstash  
+**Tools & Integrations:** Stripe, Google Maps API, ChartJS, SendGrid, NodeMailer, MUX  
+**CI/CD & DevOps:** Docker, Monorepo Architecture, TurboRepo, Linux, Git  
+**Cloud & Hosting:** Firebase, Supabase
+
+🎨 **Passion for Beautiful, Functional Design:**  
+Whether it's a complex UI with React and Tailwind CSS or a scalable backend with Node.js and Prisma, I craft solutions that are both powerful and user-friendly.
+
+⚙️ **Efficient & Scalable:**  
+From caching strategies with Redis and Upstash to optimizing builds with TurboRepo, I focus on performance and maintainability.
+
+📦 **Monorepo Architecture:**  
+Experienced in Monorepo architecture, efficiently managing and scaling multiple apps in one repository for consistency and streamlined development.
+
+🚀 **DevOps Mindset:**  
+Leveraging Docker, TurboRepo, and continuous deployment pipelines to deliver reliable and scalable software solutions.
+
 
  <table align="center" width="100%" height="100%" >
    <tr>
@@ -120,29 +146,6 @@
 
 <br>
 
-## 🎯 Bringing Ideas to Life with Cutting-Edge Tech
-
-💡 **Tech Stack Highlights:**
-
-**Languages:** JavaScript (ES6+), TypeScript, Python  
-**Frontend:** React, Next.js, Tailwind CSS, Radix UI, Shadcn, Headless UI, React Hook Forms  
-**Backend:** Node.js, Express.js, Prisma, Drizzle ORM, Strapi, RESTful APIs, tRPC, Apollo, GraphQL  
-**Databases:** PostgreSQL, MSSQL, MySQL, MongoDB, Redis, Upstash  
-**Tools & Integrations:** Stripe, Google Maps API, ChartJS, SendGrid, NodeMailer, MUX  
-**CI/CD & DevOps:** Docker, Monorepo Architecture, TurboRepo, Linux, Git  
-**Cloud & Hosting:** Firebase, Supabase
-
-🎨 **Passion for Beautiful, Functional Design:**  
-Whether it's a complex UI with React and Tailwind CSS or a scalable backend with Node.js and Prisma, I craft solutions that are both powerful and user-friendly.
-
-⚙️ **Efficient & Scalable:**  
-From caching strategies with Redis and Upstash to optimizing builds with TurboRepo, I focus on performance and maintainability.
-
-📦 **Monorepo Architecture:**  
-Experienced in Monorepo architecture, efficiently managing and scaling multiple apps in one repository for consistency and streamlined development.
-
-🚀 **DevOps Mindset:**  
-Leveraging Docker, TurboRepo, and continuous deployment pipelines to deliver reliable and scalable software solutions.
 
 ---
 <h3 align="center">Let's Connect and Build Something Great Together!</h3>
