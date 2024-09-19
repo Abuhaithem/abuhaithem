@@ -13,12 +13,12 @@
 
 <h4>👋 Hello! I'm Seid 💇‍♂️, a web and mobile developer from Ethiopia. I taught myself how to build websites and apps. I enjoy using technology to solve problems and bring ideas to life. I'm good at paying attention to small details and finding solutions when things get tough. When I'm not coding, I'm always learning something new. Let's connect and work together to make cool stuff happen!</h4>
 
- <table align="center" width="100%" height="100%" >
-   <tr>
-     <td> ![Github stats](https://github-readme-stats.vercel.app/api?username=Abuhaithem&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
-     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abuhaithem&theme=radical&layout=compact)](https://github.com/yeabnoah) </td>
-   </tr>
-  </table>
+<table align="center" width="100%" height="100%" >
+ <tr>
+  <td> ![Github stats](https://github-readme-stats.vercel.app/api?username=Abuhaithem&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
+  <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abuhaithem&theme=radical&layout=compact)](https://github.com/yeabnoah) </td>
+ </tr>
+</table>
 <h2>Technologies I work with ❤️</h2>
 
 <h4>Programming Languages</h4>
