@@ -132,7 +132,7 @@ Leveraging Docker, TurboRepo, and continuous deployment pipelines to deliver rel
       <img alt="Socket.io" height=64px src="https://cdn.worldvectorlogo.com/logos/socket-io.svg">
     </td>
     <td align="center">
-      <img alt="TurboRepo" height=64px src="https://github.com/user-attachments/assets/ff7445de-cc66-4337-9861-e1973c91a87a">
+      <img alt="TurboRepo" width=64px src="https://github.com/user-attachments/assets/ff7445de-cc66-4337-9861-e1973c91a87a">
     </td>
     <td align="center">
       <img alt="ChatGPT" height=64px src="https://cdn.worldvectorlogo.com/logos/chatgpt-4.svg">
