@@ -78,16 +78,25 @@ Utilizing Zod for schema validation, Lodash for efficient data manipulation, and
 ### 💻 Let’s Build Something Amazing Together!
 
 
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="http://github-readme-streak-stats.herokuapp.com?user=abuhaithem&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="harlexkhal" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=abuhaithem&show_icons=true&theme=onedark&border_color=61dafb&hide_border=true&count_private=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhaithem&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=compact&border_color=61dafb&hide_border=true&hide=html,css,scss&count_private=true&langs_count=8" />
+    </a>
+  </div>
+ 
+</p>
 
 
- <table align="center" width="100%" height="100%" >
-   <tr>
-     <td> 
-  
-![Github stats](https://github-readme-stats.vercel.app/api?username=Abuhaithem&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
-     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abuhaithem&theme=radical&layout=compact)](https://github.com/Abuhaithem) </td>
-   </tr>
-  </table>
 <h2>Technologies I work with ❤️</h2>
 
 <h4>Programming Languages</h4>
