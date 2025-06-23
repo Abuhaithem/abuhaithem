@@ -79,7 +79,7 @@ Utilizing Zod for schema validation, Lodash for efficient data manipulation, and
 
 <p align=center>
   <div align=center>
-   <a href="https://git.io/streak-stats">
+   <a href="https://streak-stats.demolab.com/?user=abuhaithem&date_format=j%20M%5B%20Y%5D" target="_blank">
     <img align="left" src="https://streak-stats.demolab.com/?user=abuhaithem&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
    </a>
    <a href="https://github.com/abuhaithem/github-readme-stats" title="Go to Source">
