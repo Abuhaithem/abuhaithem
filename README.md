@@ -76,7 +76,8 @@ Utilizing Zod for schema validation, Lodash for efficient data manipulation, and
 
 ### 💻 Let’s Build Something Amazing Together!
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=abuhaithem)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Abuhaithem&theme=dark)](https://git.io/streak-stats)
+
 <p align=center>
   <div align=center>
    <a href="https://github.com/abuhaithem/github-readme-stats" title="Go to Source">
