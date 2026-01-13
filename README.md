@@ -80,25 +80,6 @@ Utilizing Zod for schema validation, Lodash for efficient data manipulation, and
 ---
 [![](https://visitcount.itsvg.in/api?id=BAcode-X&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 💻 Let’s Build Something Amazing Together!
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abuhaithem" alt="GitHub Streak" /></a>
-
-<p align=center>
-  <div align=center>
-   <a href="https://github.com/abuhaithem/github-readme-stats" title="Go to Source">
-      <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=abuhaithem&show_icons=true&theme=onedark&border_color=61dafb&hide_border=true&count_private=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/abuhaithem/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhaithem&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=compact&border_color=61dafb&hide_border=true&hide=html,css,scss&count_private=true&langs_count=8" />
-    </a>
-  </div>
- 
-</p>
-
 
 <br>
 
