@@ -12,7 +12,7 @@
 
 ## 🎯 Bringing Ideas to Life with Cutting-Edge Tech
 
- 👋 Hello! I'm Seid 💇‍♂️, A Web and Mobile Engineer from Ethiopia. I taught myself how to build websites and apps. I enjoy using technology to solve problems and bring ideas to life. I'm good at paying attention to small details and finding solutions when things get tough. When I'm not coding, I'm always learning something new. Let's connect and work together to make cool stuff happen!
+ 👋 Hello! I'm 💇‍♂️, A Web and Mobile Engineer from Ethiopia. I taught myself how to build websites and apps. I enjoy using technology to solve problems and bring ideas to life. I'm good at paying attention to small details and finding solutions when things get tough. When I'm not coding, I'm always learning something new. Let's connect and work together to make cool stuff happen!
 
 ### 💡 Tech Stack Highlights:
 
