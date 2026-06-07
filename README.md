@@ -28,26 +28,19 @@ Whether you need a **RAG-powered AI agent**, a **custom CRM integration**, a **v
 
 <!-- ===================== OPEN SOURCE ===================== -->
 
-## 🌍 𝗢𝗣𝗘𝗡 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗡𝗧𝗥𝗜𝗕𝗨𝗧𝗜𝗢𝗡𝗦
+## 🌍 OPEN SOURCE CONTRIBUTIONS
 
-𝘐 𝘣𝘦𝘭𝘪𝘦𝘷𝘦 𝘵𝘩𝘦 𝘣𝘦𝘴𝘵 𝘦𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘴 𝘨𝘪𝘷𝘦 𝘣𝘢𝘤𝘬. 𝘐 𝘤𝘰𝘯𝘵𝘳𝘪𝘣𝘶𝘵𝘦 𝘧𝘪𝘹𝘦𝘴 𝘢𝘯𝘥 𝘪𝘮𝘱𝘳𝘰𝘷𝘦𝘮𝘦𝘯𝘵𝘴 𝘶𝘱𝘴𝘵𝘳𝘦𝘢𝘮 𝘵𝘰 𝘵𝘸𝘰 𝘰𝘧 𝘵𝘩𝘦 𝘮𝘰𝘴𝘵 𝘸𝘪𝘥𝘦𝘭𝘺 𝘶𝘴𝘦𝘥 𝘰𝘱𝘦𝘯-𝘴𝘰𝘶𝘳𝘤𝘦 𝘈𝘐 𝘧𝘳𝘢𝘮𝘦𝘸𝘰𝘳𝘬𝘴 𝘪𝘯 𝘵𝘩𝘦 𝘛𝘺𝘱𝘦𝘚𝘤𝘳𝘪𝘱𝘵 𝘦𝘤𝘰𝘴𝘺𝘴𝘵𝘦𝘮 — 𝘔𝘢𝘴𝘵𝘳𝘢 𝘢𝘯𝘥 𝘵𝘩𝘦 𝘝𝘦𝘳𝘤𝘦𝘭 𝘈𝘐 𝘚𝘋𝘒.
+*I believe the best engineers give back. I contribute fixes and improvements upstream to two widely used open-source AI frameworks in the TypeScript ecosystem — Mastra and the Vercel AI SDK.*
 
-<div align="center">
+<br>
 
-[![Mastra](https://github-readme-stats.vercel.app/api/pin/?username=mastra-ai&repo=mastra&theme=github_dark&hide_border=true)](https://github.com/mastra-ai/mastra/pulls/Abuhaithem)
-[![Vercel AI SDK](https://github-readme-stats.vercel.app/api/pin/?username=vercel&repo=ai&theme=github_dark&hide_border=true)](https://github.com/vercel/ai/pulls/Abuhaithem)
+| Project                                                                                                                                                                                  | Contributions                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| <a href="https://github.com/mastra-ai/mastra/pulls/Abuhaithem"><img src="https://github.com/user-attachments/assets/123160a2-22f8-4a5f-9e03-8d3c5f44f978" width="48" alt="Mastra" /></a> | **Mastra**<br>Open-source contributions, fixes, and improvements to the Mastra AI framework. |
+| <a href="https://github.com/vercel/ai/pulls/Abuhaithem"><img src="https://github.com/user-attachments/assets/53ca5b34-f905-464a-89ba-1543e33ce6f1" width="48" alt="Vercel AI SDK" /></a> | **Vercel AI SDK**<br>Contributions to the AI SDK powering production-grade AI applications.  |
 
-</div>
+<br>
 
-#### ⭐ Merged & Open Contributions
-
-| Project | What I contributed | PR |
-|---|---|:--:|
-| **Mastra** | Apply `.default()` / `.optional()` schema-compat semantics when models return `null` | [#17656](https://github.com/mastra-ai/mastra/pull/17656) |
-| **Mastra** | Honor explicit `ssl` over `sslmode` in the `PgVector` connection string | [#17650](https://github.com/mastra-ai/mastra/pull/17650) |
-| **Vercel AI SDK** | Fix partial-JSON parsing for split Unicode escape sequences | [#15866](https://github.com/vercel/ai/pull/15866) |
-| **Vercel AI SDK** | Throw `InvalidResponseDataError` when an audio format can't be determined | [#15815](https://github.com/vercel/ai/pull/15815) |
-| **Vercel AI SDK** | Use `secureJsonParse` instead of raw `JSON.parse` in provider code | [#15813](https://github.com/vercel/ai/pull/15813) |
 
 <sub>🔗 Browse everything: **Mastra** — [Pull Requests](https://github.com/mastra-ai/mastra/pulls/Abuhaithem) · [Issues](https://github.com/mastra-ai/mastra/issues?q=is%3Aissue+author%3AAbuhaithem) &nbsp;|&nbsp; **Vercel AI SDK** — [Pull Requests](https://github.com/vercel/ai/pulls/Abuhaithem) · [Issues](https://github.com/vercel/ai/issues?q=is%3Aissue+author%3AAbuhaithem)</sub>
 
