@@ -22,21 +22,7 @@
 
 Whether you need a **RAG-powered AI agent**, a **custom CRM integration**, a **voice AI pipeline**, or a **mission-critical real-time backend** — I bridge the gap between *"it works for now"* and **it's built to last**.
 
-🇪🇹 Self-taught Web & Mobile Engineer from Ethiopia • I learn in public and give back through open source.
-
----
-
-<!-- ===================== FEATURED WORK ===================== -->
-
-## 🏆 𝗥𝗘𝗔𝗟 𝗥𝗘𝗦𝗨𝗟𝗧𝗦, 𝗥𝗘𝗔𝗟 𝗖𝗟𝗜𝗘𝗡𝗧𝗦
-
-### 💍 Wedlii — Australia's First AI Wedding Planner
-An **AI-powered SaaS** with smart recommendations (OpenAI), a scalable marketplace schema (PostgreSQL), and a lightning-fast frontend (Next.js & Golang).
-> ▹ **Outcome:** Launched Australia's first AI wedding planner — saving users hours of manual search.
-
-### 📞 E-Caller — AI-Powered Dismissal System
-An **event-driven system** integrating LPR (License Plate Recognition) with WebSockets, Redis, and AWS ECS Fargate — designed to absorb 10x traffic spikes.
-> ▹ **Outcome:** Eliminated manual dismissal errors and drastically reduced wait times.
+🇪🇹 Self-taught Web & Mobile Engineer from Ethiopia • I build in the open and contribute upstream to the tools I rely on.
 
 ---
 
@@ -44,29 +30,26 @@ An **event-driven system** integrating LPR (License Plate Recognition) with WebS
 
 ## 🌍 𝗢𝗣𝗘𝗡 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗡𝗧𝗥𝗜𝗕𝗨𝗧𝗜𝗢𝗡𝗦
 
-𝘐 𝘣𝘦𝘭𝘪𝘦𝘷𝘦 𝘵𝘩𝘦 𝘣𝘦𝘴𝘵 𝘦𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘴 𝘨𝘪𝘷𝘦 𝘣𝘢𝘤𝘬. 𝘐 𝘣𝘶𝘪𝘭𝘥 𝘪𝘯 𝘵𝘩𝘦 𝘰𝘱𝘦𝘯, 𝘴𝘩𝘪𝘱 𝘳𝘦𝘶𝘴𝘢𝘣𝘭𝘦 𝘵𝘰𝘰𝘭𝘪𝘯𝘨, 𝘢𝘯𝘥 𝘤𝘰𝘯𝘵𝘳𝘪𝘣𝘶𝘵𝘦 𝘧𝘪𝘹𝘦𝘴 𝘢𝘯𝘥 𝘧𝘦𝘢𝘵𝘶𝘳𝘦𝘴 𝘵𝘰 𝘵𝘩𝘦 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴 𝘐 𝘳𝘦𝘭𝘺 𝘰𝘯 𝘦𝘷𝘦𝘳𝘺 𝘥𝘢𝘺.
+𝘐 𝘣𝘦𝘭𝘪𝘦𝘷𝘦 𝘵𝘩𝘦 𝘣𝘦𝘴𝘵 𝘦𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘴 𝘨𝘪𝘷𝘦 𝘣𝘢𝘤𝘬. 𝘐 𝘤𝘰𝘯𝘵𝘳𝘪𝘣𝘶𝘵𝘦 𝘧𝘪𝘹𝘦𝘴 𝘢𝘯𝘥 𝘪𝘮𝘱𝘳𝘰𝘷𝘦𝘮𝘦𝘯𝘵𝘴 𝘶𝘱𝘴𝘵𝘳𝘦𝘢𝘮 𝘵𝘰 𝘵𝘸𝘰 𝘰𝘧 𝘵𝘩𝘦 𝘮𝘰𝘴𝘵 𝘸𝘪𝘥𝘦𝘭𝘺 𝘶𝘴𝘦𝘥 𝘰𝘱𝘦𝘯-𝘴𝘰𝘶𝘳𝘤𝘦 𝘈𝘐 𝘧𝘳𝘢𝘮𝘦𝘸𝘰𝘳𝘬𝘴 𝘪𝘯 𝘵𝘩𝘦 𝘛𝘺𝘱𝘦𝘚𝘤𝘳𝘪𝘱𝘵 𝘦𝘤𝘰𝘴𝘺𝘴𝘵𝘦𝘮 — 𝘔𝘢𝘴𝘵𝘳𝘢 𝘢𝘯𝘥 𝘵𝘩𝘦 𝘝𝘦𝘳𝘤𝘦𝘭 𝘈𝘐 𝘚𝘋𝘒.
 
-<!-- 👇 FEATURED REPOS — replace REPO_NAME with your real pinned/most-loved repos (owned or forked) -->
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Abuhaithem&repo=REPO_NAME_1&theme=github_dark&hide_border=true)](https://github.com/Abuhaithem/REPO_NAME_1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Abuhaithem&repo=REPO_NAME_2&theme=github_dark&hide_border=true)](https://github.com/Abuhaithem/REPO_NAME_2)
-
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=Abuhaithem&repo=REPO_NAME_3&theme=github_dark&hide_border=true)](https://github.com/Abuhaithem/REPO_NAME_3)
-[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=Abuhaithem&repo=REPO_NAME_4&theme=github_dark&hide_border=true)](https://github.com/Abuhaithem/REPO_NAME_4)
+[![Mastra](https://github-readme-stats.vercel.app/api/pin/?username=mastra-ai&repo=mastra&theme=github_dark&hide_border=true)](https://github.com/mastra-ai/mastra/pulls/Abuhaithem)
+[![Vercel AI SDK](https://github-readme-stats.vercel.app/api/pin/?username=vercel&repo=ai&theme=github_dark&hide_border=true)](https://github.com/vercel/ai/pulls/Abuhaithem)
 
 </div>
 
-#### ⭐ Notable Contributions
-<!-- 👇 Replace these rows with your real PRs / merged contributions to OTHER people's projects -->
+#### ⭐ Merged & Open Contributions
 
-| Project | What I did | Link |
-|---|---|---|
-| `org/project-name` | Fixed a race condition in the WebSocket reconnect logic | [PR #123](https://github.com/org/project-name/pull/123) |
-| `org/project-name` | Added TypeScript types + docs for the public API | [PR #456](https://github.com/org/project-name/pull/456) |
-| `org/project-name` | Improved build performance in the monorepo pipeline | [PR #789](https://github.com/org/project-name/pull/789) |
+| Project | What I contributed | PR |
+|---|---|:--:|
+| **Mastra** | Apply `.default()` / `.optional()` schema-compat semantics when models return `null` | [#17656](https://github.com/mastra-ai/mastra/pull/17656) |
+| **Mastra** | Honor explicit `ssl` over `sslmode` in the `PgVector` connection string | [#17650](https://github.com/mastra-ai/mastra/pull/17650) |
+| **Vercel AI SDK** | Fix partial-JSON parsing for split Unicode escape sequences | [#15866](https://github.com/vercel/ai/pull/15866) |
+| **Vercel AI SDK** | Throw `InvalidResponseDataError` when an audio format can't be determined | [#15815](https://github.com/vercel/ai/pull/15815) |
+| **Vercel AI SDK** | Use `secureJsonParse` instead of raw `JSON.parse` in provider code | [#15813](https://github.com/vercel/ai/pull/15813) |
 
-> 📈 My contribution graph below reflects ongoing public activity across personal projects and the wider community.
+<sub>🔗 Browse everything: **Mastra** — [Pull Requests](https://github.com/mastra-ai/mastra/pulls/Abuhaithem) · [Issues](https://github.com/mastra-ai/mastra/issues?q=is%3Aissue+author%3AAbuhaithem) &nbsp;|&nbsp; **Vercel AI SDK** — [Pull Requests](https://github.com/vercel/ai/pulls/Abuhaithem) · [Issues](https://github.com/vercel/ai/issues?q=is%3Aissue+author%3AAbuhaithem)</sub>
 
 ---
 
@@ -89,8 +72,8 @@ An **event-driven system** integrating LPR (License Plate Recognition) with WebS
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Abuhaithem&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=Abuhaithem&theme=github_dark&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abuhaithem&theme=github_dark&hide_border=true&include_all_commits=true&show_icons=true" alt="GitHub stats" />
+<img height="165" src="https://streak-stats.demolab.com/?user=Abuhaithem&hide_border=true&background=0D1117&border=21262D&stroke=21262D&ring=22C55E&fire=22C55E&currStreakNum=C9D1D9&currStreakLabel=22C55E&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abuhaithem&theme=react-dark&hide_border=true&area=true)](https://github.com/Abuhaithem)
 
