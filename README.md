@@ -65,7 +65,7 @@ Whether you need a **RAG-powered AI agent**, a **custom CRM integration**, a **v
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abuhaithem&theme=github_dark&hide_border=true&include_all_commits=true&show_icons=true" alt="GitHub stats" />
+
 <img height="165" src="https://streak-stats.demolab.com/?user=Abuhaithem&hide_border=true&background=0D1117&border=21262D&stroke=21262D&ring=22C55E&fire=22C55E&currStreakNum=C9D1D9&currStreakLabel=22C55E&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abuhaithem&theme=react-dark&hide_border=true&area=true)](https://github.com/Abuhaithem)
