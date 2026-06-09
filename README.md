@@ -36,8 +36,8 @@ Whether you need a **RAG-powered AI agent**, a **custom CRM integration**, a **v
 
 | Project                                                                                                                                                                                  | Contributions                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| <a href="https://github.com/mastra-ai/mastra/pulls/Abuhaithem"><img src="https://github.com/user-attachments/assets/123160a2-22f8-4a5f-9e03-8d3c5f44f978" width="48" alt="Mastra" /></a> | **Mastra**<br>Open-source contributions, fixes, and improvements to the Mastra AI framework. |
-| <a href="https://github.com/vercel/ai/pulls/Abuhaithem"><img src="https://github.com/user-attachments/assets/53ca5b34-f905-464a-89ba-1543e33ce6f1" width="48" alt="Vercel AI SDK" /></a> | **Vercel AI SDK**<br>Contributions to the AI SDK powering production-grade AI applications.  |
+| <a href="https://github.com/mastra-ai/mastra/pulls?q=is%3Apr+author%3AAbuhaithem"><img src="https://github.com/user-attachments/assets/123160a2-22f8-4a5f-9e03-8d3c5f44f978" width="48" alt="Mastra" /></a> | **Mastra**<br>Open-source contributions, fixes, and improvements to the Mastra AI framework. |
+| <a href="https://github.com/vercel/ai/pulls?q=is%3Apr+author%3AAbuhaithem"><img src="https://github.com/user-attachments/assets/53ca5b34-f905-464a-89ba-1543e33ce6f1" width="48" alt="Vercel AI SDK" /></a> | **Vercel AI SDK**<br>Contributions to the AI SDK powering production-grade AI applications.  |
 
 <br>
 
