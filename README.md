@@ -22,7 +22,7 @@
 
 Whether you need a **RAG-powered AI agent**, a **custom CRM integration**, a **voice AI pipeline**, or a **mission-critical real-time backend** — I bridge the gap between *"it works for now"* and **it's built to last**.
 
-🇪🇹 Self-taught Web & Mobile Engineer from Ethiopia • I build in the open and contribute upstream to the tools I rely on.
+Full Stack Software Engineer • I build in the open and contribute upstream to the tools I rely on.
 
 ---
 
