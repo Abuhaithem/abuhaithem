@@ -38,12 +38,11 @@ Full Stack Software Engineer • I build in the open and contribute upstream to 
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
 | <a href="https://github.com/mastra-ai/mastra/pulls?q=is%3Apr+author%3AAbuhaithem"><img src="https://github.com/user-attachments/assets/123160a2-22f8-4a5f-9e03-8d3c5f44f978" width="48" alt="Mastra" /></a> | **Mastra**<br>Open-source contributions, fixes, and improvements to the Mastra AI framework. |
 | <a href="https://github.com/vercel/ai/pulls?q=is%3Apr+author%3AAbuhaithem"><img src="https://github.com/user-attachments/assets/53ca5b34-f905-464a-89ba-1543e33ce6f1" width="48" alt="Vercel AI SDK" /></a> | **Vercel AI SDK**<br>Contributions to the AI SDK powering production-grade AI applications.  |
-
+| <a href="https://github.com/mongodb/mongo/pulls?q=is%3Apr+author%3AAbuhaithem"><img src="https://github.com/user-attachments/assets/c5af7f85-ca72-4857-9bdb-ba420f9c998d" width="48" alt="MongoDB" /></a> | **MongoDB**<br>Contributions to the MongoDB core database server. |
+| <a href="https://github.com/aws/aws-cli/pulls?q=is%3Apr+author%3AAbuhaithem"><img src="https://github.com/user-attachments/assets/ced57e32-b20d-45a9-a269-d855e2265aad" width="48" alt="AWS CLI" /></a> | **AWS CLI**<br>Contributions to the official Amazon Web Services command-line interface. |
+| <a href="https://github.com/supabase/supabase/pulls?q=is%3Apr+author%3AAbuhaithem"><img src="https://github.com/user-attachments/assets/4a554267-f63c-4933-a83e-7bc33f316ec1" width="48" alt="Supabase" /></a> | **Supabase**<br>Contributions to the open-source Firebase alternative. |
 <br>
-
-
-<sub>🔗 Browse everything: **Mastra** — [Pull Requests](https://github.com/mastra-ai/mastra/pulls/Abuhaithem) · [Issues](https://github.com/mastra-ai/mastra/issues?q=is%3Aissue+author%3AAbuhaithem) &nbsp;|&nbsp; **Vercel AI SDK** — [Pull Requests](https://github.com/vercel/ai/pulls/Abuhaithem) · [Issues](https://github.com/vercel/ai/issues?q=is%3Aissue+author%3AAbuhaithem)</sub>
-
+<sub>🔗 Browse everything: **Mastra** — [Pull Requests](https://github.com/mastra-ai/mastra/pulls/Abuhaithem) · [Issues](https://github.com/mastra-ai/mastra/issues?q=is%3Aissue+author%3AAbuhaithem) &nbsp;|&nbsp; **Vercel AI SDK** — [Pull Requests](https://github.com/vercel/ai/pulls/Abuhaithem) · [Issues](https://github.com/vercel/ai/issues?q=is%3Aissue+author%3AAbuhaithem) &nbsp;|&nbsp; **MongoDB** — [Pull Requests](https://github.com/mongodb/mongo/pulls/Abuhaithem) · [Issues](https://github.com/mongodb/mongo/issues?q=is%3Aissue+author%3AAbuhaithem) &nbsp;|&nbsp; **AWS CLI** — [Pull Requests](https://github.com/aws/aws-cli/pulls/Abuhaithem) · [Issues](https://github.com/aws/aws-cli/issues?q=is%3Aissue+author%3AAbuhaithem) &nbsp;|&nbsp; **Supabase** — [Pull Requests](https://github.com/supabase/supabase/pulls/Abuhaithem) · [Issues](https://github.com/supabase/supabase/issues?q=is%3Aissue+author%3AAbuhaithem)</sub>
 ---
 
 <!-- ===================== HOW I WORK ===================== -->
