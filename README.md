@@ -53,7 +53,7 @@ Full Stack Software Engineer • I build in the open and contribute upstream to 
 
 **Mastra**
 
-[![PRs](https://img.shields.io/badge/Pull_Requests-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mastra-ai/mastra/pulls/Abuhaithem)
+[![PRs](https://img.shields.io/badge/Pull_Requests-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mastra-ai/mastra/pulls?q=is%3Apr+author%3AAbuhaithem)
 [![Issues](https://img.shields.io/badge/Issues-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mastra-ai/mastra/issues?q=is%3Aissue+author%3AAbuhaithem)
 
 </td>
@@ -61,7 +61,7 @@ Full Stack Software Engineer • I build in the open and contribute upstream to 
 
 **Vercel AI SDK**
 
-[![PRs](https://img.shields.io/badge/Pull_Requests-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/vercel/ai/pulls/Abuhaithem)
+[![PRs](https://img.shields.io/badge/Pull_Requests-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/vercel/ai/pulls?q=is%3Apr+author%3AAbuhaithem)
 [![Issues](https://img.shields.io/badge/Issues-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/vercel/ai/issues?q=is%3Aissue+author%3AAbuhaithem)
 
 </td>
@@ -69,7 +69,7 @@ Full Stack Software Engineer • I build in the open and contribute upstream to 
 
 **MongoDB**
 
-[![PRs](https://img.shields.io/badge/Pull_Requests-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/mongodb/mongo/pulls/Abuhaithem)
+[![PRs](https://img.shields.io/badge/Pull_Requests-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/mongodb/mongo/pulls?q=is%3Apr+author%3AAbuhaithem)
 [![Issues](https://img.shields.io/badge/Issues-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/mongodb/mongo/issues?q=is%3Aissue+author%3AAbuhaithem)
 
 </td>
@@ -79,7 +79,7 @@ Full Stack Software Engineer • I build in the open and contribute upstream to 
 
 **AWS CLI**
 
-[![PRs](https://img.shields.io/badge/Pull_Requests-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://github.com/aws/aws-cli/pulls/Abuhaithem)
+[![PRs](https://img.shields.io/badge/Pull_Requests-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://github.com/aws/aws-cli/pulls?q=is%3Apr+author%3AAbuhaithem)
 [![Issues](https://img.shields.io/badge/Issues-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://github.com/aws/aws-cli/issues?q=is%3Aissue+author%3AAbuhaithem)
 
 </td>
@@ -87,7 +87,7 @@ Full Stack Software Engineer • I build in the open and contribute upstream to 
 
 **Supabase**
 
-[![PRs](https://img.shields.io/badge/Pull_Requests-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://github.com/supabase/supabase/pulls/Abuhaithem)
+[![PRs](https://img.shields.io/badge/Pull_Requests-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://github.com/supabase/supabase/pulls?q=is%3Apr+author%3AAbuhaithem)
 [![Issues](https://img.shields.io/badge/Issues-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://github.com/supabase/supabase/issues?q=is%3Aissue+author%3AAbuhaithem)
 
 </td>
