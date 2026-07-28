@@ -36,12 +36,12 @@ Full Stack Software Engineer • I build in the open and contribute upstream to 
 
 | Project                                                                                                                                                                                  | Contributions                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| <a href="https://github.com/mastra-ai/mastra/pulls?q=is%3Apr+author%3AAbuhaithem"><img src="https://github.com/user-attachments/assets/123160a2-22f8-4a5f-9e03-8d3c5f44f978" width="48" alt="Mastra" /></a> | **Mastra**<br>Open-source contributions, fixes, and improvements to the Mastra AI framework. |
-| <a href="https://github.com/aws/aws-cdk/pulls?q=is%3Apr+author%3AAbuhaithem"><img src="https://github.com/user-attachments/assets/2f5663ed-efb2-4f3c-b39b-3f55cd375b0a" width="48" alt="AWS CLI" /></a> | **AWS CDK**<br>Contributions to the official AWS Cloud Development Kit, an open-source framework for defining cloud infrastructure in code. |
-| <a href="https://github.com/supabase/supabase/pulls?q=is%3Apr+author%3AAbuhaithem"><img src="https://github.com/user-attachments/assets/4a554267-f63c-4933-a83e-7bc33f316ec1" width="48" alt="Supabase" /></a> | **Supabase**<br>Contributions to the open-source Firebase alternative. |
-| <a href="https://github.com/aws/aws-cli/pulls?q=is%3Apr+author%3AAbuhaithem"><img src="https://github.com/user-attachments/assets/ced57e32-b20d-45a9-a269-d855e2265aad" width="48" alt="AWS CLI" /></a> | **AWS CLI**<br>Contributions to the official Amazon Web Services command-line interface. |
-| <a href="https://github.com/vercel/ai/pulls?q=is%3Apr+author%3AAbuhaithem"><img src="https://github.com/user-attachments/assets/53ca5b34-f905-464a-89ba-1543e33ce6f1" width="48" alt="Vercel AI SDK" /></a> | **Vercel AI SDK**<br>Contributions to the AI SDK powering production-grade AI applications.  |
-| <a href="https://github.com/mongodb/mongo/pulls?q=is%3Apr+author%3AAbuhaithem"><img src="https://github.com/user-attachments/assets/c5af7f85-ca72-4857-9bdb-ba420f9c998d" width="48" alt="MongoDB" /></a> | **MongoDB**<br>Contributions to the MongoDB core database server. |
+| <a href="https://github.com/mastra-ai/mastra/pulls?q=is%3Apr+author%3AAbuhaithem+is%3Amerged"><img src="https://github.com/user-attachments/assets/123160a2-22f8-4a5f-9e03-8d3c5f44f978" width="48" alt="Mastra" /></a> | **Mastra**<br>Open-source contributions, fixes, and improvements to the Mastra AI framework. |
+| <a href="https://github.com/aws/aws-cdk/pulls?q=is%3Apr+author%3AAbuhaithem+is%3Amerged"><img src="https://github.com/user-attachments/assets/2f5663ed-efb2-4f3c-b39b-3f55cd375b0a" width="48" alt="AWS CLI" /></a> | **AWS CDK**<br>Contributions to the official AWS Cloud Development Kit, an open-source framework for defining cloud infrastructure in code. |
+| <a href="https://github.com/supabase/supabase/pulls?q=is%3Apr+author%3AAbuhaithem+is%3Amerged"><img src="https://github.com/user-attachments/assets/4a554267-f63c-4933-a83e-7bc33f316ec1" width="48" alt="Supabase" /></a> | **Supabase**<br>Contributions to the open-source Firebase alternative. |
+| <a href="https://github.com/aws/aws-cli/pulls?q=is%3Apr+author%3AAbuhaithem+is%3Amerged"><img src="https://github.com/user-attachments/assets/ced57e32-b20d-45a9-a269-d855e2265aad" width="48" alt="AWS CLI" /></a> | **AWS CLI**<br>Contributions to the official Amazon Web Services command-line interface. |
+| <a href="https://github.com/vercel/ai/pulls?q=is%3Apr+author%3AAbuhaithem+is%3Amerged"><img src="https://github.com/user-attachments/assets/53ca5b34-f905-464a-89ba-1543e33ce6f1" width="48" alt="Vercel AI SDK" /></a> | **Vercel AI SDK**<br>Contributions to the AI SDK powering production-grade AI applications.  |
+| <a href="https://github.com/mongodb/mongo/pulls?q=is%3Apr+author%3AAbuhaithem+is%3Amerged"><img src="https://github.com/user-attachments/assets/c5af7f85-ca72-4857-9bdb-ba420f9c998d" width="48" alt="MongoDB" /></a> | **MongoDB**<br>Contributions to the MongoDB core database server. |
 
 <br>
 
@@ -55,7 +55,7 @@ Full Stack Software Engineer • I build in the open and contribute upstream to 
 
 **Mastra**
 
-[![PRs](https://img.shields.io/badge/Pull_Requests-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mastra-ai/mastra/pulls?q=is%3Apr+author%3AAbuhaithem)
+[![PRs](https://img.shields.io/badge/Pull_Requests-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mastra-ai/mastra/pulls?q=is%3Apr+author%3AAbuhaithem+is%3Amerged)
 [![Issues](https://img.shields.io/badge/Issues-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mastra-ai/mastra/issues?q=is%3Aissue+author%3AAbuhaithem)
 
 </td>
@@ -63,7 +63,7 @@ Full Stack Software Engineer • I build in the open and contribute upstream to 
 
 **Vercel AI SDK**
 
-[![PRs](https://img.shields.io/badge/Pull_Requests-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/vercel/ai/pulls?q=is%3Apr+author%3AAbuhaithem)
+[![PRs](https://img.shields.io/badge/Pull_Requests-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/vercel/ai/pulls?q=is%3Apr+author%3AAbuhaithem+is%3Amerged)
 [![Issues](https://img.shields.io/badge/Issues-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/vercel/ai/issues?q=is%3Aissue+author%3AAbuhaithem)
 
 </td>
@@ -71,7 +71,7 @@ Full Stack Software Engineer • I build in the open and contribute upstream to 
 
 **MongoDB**
 
-[![PRs](https://img.shields.io/badge/Pull_Requests-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/mongodb/mongo/pulls?q=is%3Apr+author%3AAbuhaithem)
+[![PRs](https://img.shields.io/badge/Pull_Requests-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/mongodb/mongo/pulls?q=is%3Apr+author%3AAbuhaithem+is%3Amerged)
 [![Issues](https://img.shields.io/badge/Issues-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/mongodb/mongo/issues?q=is%3Aissue+author%3AAbuhaithem)
 
 </td>
@@ -81,7 +81,7 @@ Full Stack Software Engineer • I build in the open and contribute upstream to 
 
 **AWS CLI**
 
-[![PRs](https://img.shields.io/badge/Pull_Requests-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://github.com/aws/aws-cli/pulls?q=is%3Apr+author%3AAbuhaithem)
+[![PRs](https://img.shields.io/badge/Pull_Requests-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://github.com/aws/aws-cli/pulls?q=is%3Apr+author%3AAbuhaithem+is%3Amerged)
 [![Issues](https://img.shields.io/badge/Issues-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://github.com/aws/aws-cli/issues?q=is%3Aissue+author%3AAbuhaithem)
 
 </td>
@@ -89,7 +89,7 @@ Full Stack Software Engineer • I build in the open and contribute upstream to 
 
 **Supabase**
 
-[![PRs](https://img.shields.io/badge/Pull_Requests-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://github.com/supabase/supabase/pulls?q=is%3Apr+author%3AAbuhaithem)
+[![PRs](https://img.shields.io/badge/Pull_Requests-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://github.com/supabase/supabase/pulls?q=is%3Apr+author%3AAbuhaithem+is%3Amerged)
 [![Issues](https://img.shields.io/badge/Issues-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://github.com/supabase/supabase/issues?q=is%3Aissue+author%3AAbuhaithem)
 
 </td>
